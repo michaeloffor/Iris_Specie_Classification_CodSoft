@@ -13,6 +13,6 @@
 <h2>Project Structure</h2>
 <li>Data Preprocessing: Handling missing values (if any), normalizing/standardizing features, and preparing the data for model training.</li>
 <li>Exploratory Data Analysis (EDA): Visualizing the data to understand the distribution of the features and their relationships with the target variable.</li>
-<li>Model Training: Training machine learning model to classify iris species.</li>
+<li>Model Training: Training K Neighbor Classifier machine learning model to classify iris species.</li>
 <li>Model Evaluation: Evaluating the performance of the model using metrics such as accuracy, precision, recall, F1-score.</li>
 <li>Prediction: Using the model to predict the species of iris flowers.</li>
